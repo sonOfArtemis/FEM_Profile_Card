@@ -37,6 +37,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Adobe Dreamweaver
 
 ### What I learned
 
